@@ -1,0 +1,28 @@
+
+# 汇编编译产物
+*.EXE
+*.OBJ
+*.LST
+*.CRF
+*.MAP
+*.COM
+
+# Visual Studio生成文件
+.vs/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.pdb
+*.ilk
+*.ipch/
+
+# 系统临时文件
+Thumbs.db
+.DS_Store
+*.tmp
